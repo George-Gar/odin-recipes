@@ -1,3 +1,19 @@
 body {
     background-color: purple;
 }
+
+.paragraphs {
+    color: yellow;
+    font-family: monospace;
+}
+
+.unordered, .ordered {
+    color: mediumseagreen;
+    font-family: monospace;
+}
+
+h3 {
+    color: gray;
+    font-family: monospace;
+    font-size: 22px;
+}
