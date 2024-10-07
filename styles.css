@@ -17,3 +17,7 @@ h3 {
     font-family: monospace;
     font-size: 22px;
 }
+
+* {
+    outline: 2px solid red;
+}
